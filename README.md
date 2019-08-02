@@ -1,3 +1,3 @@
-# My-Box
+# MyBox
 
 Some magical code here
